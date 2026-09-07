@@ -1,16 +1,19 @@
 <p align="right">
-  <b>English</b> |
-  <a href="./README_KR.md">한국어</a>
+  <b>한국어</b> |
+  <a href="./README_EN.md">English</a>
 </p>
 
 <div align="center">
 
-# Hi, I'm Minsu Ko 👋
+# 안녕하세요, 고민수입니다 👋
 
 ### Cloud · Infrastructure · Automation · AI
 
-I enjoy understanding systems as a whole —  
-from infrastructure and automation to AI-powered applications.
+클라우드 인프라와 자동화를 기반으로  
+**Kubernetes와 AI Agent 시스템까지 관심 영역을 확장하고 있습니다.**
+
+개별 기술을 사용하는 것보다  
+**시스템이 어떻게 연결되고 운영되는지 이해하는 것**을 중요하게 생각합니다.
 
 <br/>
 
@@ -23,12 +26,11 @@ from infrastructure and automation to AI-powered applications.
 
 ## 👨‍💻 About Me
 
-- ☁️ Interested in **Cloud Infrastructure & Platform Engineering**
-- ☸️ Experienced with **Kubernetes, Docker and Linux environments**
-- ⚙️ Building infrastructure automation with **Terraform, Ansible and CI/CD**
-- 🤖 Exploring **AI Agents, RAG, MCP and LLMOps**
-- 🏗️ Interested in designing systems from an **architecture-level perspective**
-- 📚 Continuously learning about infrastructure, automation and AI systems
+- ☁️ **Cloud Infrastructure & Platform Engineering**에 관심이 있습니다.
+- ☸️ **Linux, Docker, Kubernetes** 기반 환경을 학습하고 구축해왔습니다.
+- ⚙️ **Terraform, Ansible, Jenkins**를 활용한 인프라 자동화와 CI/CD를 다루고 있습니다.
+- 🤖 최근에는 **AI Agent, RAG, MCP, LLMOps** 영역으로 관심을 확장하고 있습니다.
+- 🏗️ 기술 자체보다 **Architecture, System Flow, Automation** 관점에서 문제를 바라보는 것을 중요하게 생각합니다.
 
 ---
 
@@ -40,7 +42,7 @@ from infrastructure and automation to AI-powered applications.
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,aws" />
 </p>
 
-`VMware vSphere` · `ESXi` · `Linux` · `Kubernetes` · `Docker` · `AWS`
+`Kubernetes` · `Docker` · `Linux` · `VMware vSphere` · `ESXi` · `AWS`
 
 ### Infrastructure as Code & Automation
 
@@ -72,89 +74,85 @@ from infrastructure and automation to AI-powered applications.
 
 ### ☁️ Cloud Management Platform
 
-Cloud infrastructure management platform focused on  
-**VM provisioning, infrastructure automation and system architecture.**
+VM Provisioning과 Infrastructure Automation을 중심으로  
+Cloud Management Platform 프로토타입을 구축했습니다.
 
-**Key Technologies**
+주요 관심 영역:
 
-`VMware vSphere` · `Ansible` · `Jenkins` · `Terraform` · `Prometheus` · `Grafana`
+- VM Provisioning
+- Infrastructure as Code
+- Configuration Management
+- CI/CD
+- Monitoring
+- Infrastructure Automation
 
-**Key Topics**
+**Tech**
 
-- Automated VM provisioning
-- Infrastructure automation
-- Gateway & reverse proxy architecture
-- CI/CD pipeline
-- Infrastructure monitoring
-- Cloud resource management
+`VMware vSphere` · `Terraform` · `Ansible` · `Jenkins` · `Prometheus` · `Grafana`
+
+🔗 [Terraform Repository](https://github.com/minsuko-lab/CMP-Project-Terraform)
 
 ---
 
-### 🤖 AI / Agent Systems
+### 🤖 MCP-based News Curation Agent
 
-Building and experimenting with AI systems based on:
+사용자의 관심 키워드를 기반으로  
+뉴스를 수집하고 정리하는 **MCP 기반 AI Agent 시스템**입니다.
 
-`FastAPI` · `LangChain` · `LangGraph` · `RAG` · `MCP`
+**Tech**
 
-Topics of interest include:
+`Python` · `FastAPI` · `MCP` · `LLM` · `Automation`
 
-- Multi-Agent Architecture
-- AI Agent Orchestration
-- Retrieval-Augmented Generation
-- LLMOps
-- AI Infrastructure
+🔗 [View Repository](https://github.com/minsuko-lab/news_curation_system)
 
 ---
 
 ### ☸️ Kubernetes
 
-Studying and operating Kubernetes environments with a focus on:
+Kubernetes의 구성과 운영 원리를 이해하기 위해  
+클러스터 관리와 트러블슈팅을 중심으로 지속적으로 실습하고 있습니다.
+
+주요 학습 영역:
 
 - Workload Management
+- Scheduling
 - Networking
 - Storage
-- Scheduling
-- Troubleshooting
+- Security
 - Cluster Administration
+- Troubleshooting
 
-🔗 [My Kubernetes Repository](https://github.com/FakePhDKo/My_Kubernetes)
+🔗 [View Repository](https://github.com/minsuko-lab/My_Kubernetes)
 
 ---
 
 ### ⚙️ Infrastructure Automation
 
-Infrastructure automation projects and practices using:
+Terraform, Ansible, Jenkins 등을 활용하여  
+반복적인 인프라 구축과 운영 과정을 자동화하는 방법을 학습하고 있습니다.
 
-- Terraform
-- Ansible
-- Jenkins
-- CI/CD
-
-🔗 [Terraform Project](https://github.com/FakePhDKo/CMP-Project-Terraform)
-
-🔗 [Ansible Practice](https://github.com/FakePhDKo/Linux_Ansible)
-
-🔗 [CI/CD Project](https://github.com/FakePhDKo/CI_CD_MiniProject)
+🔗 [Ansible](https://github.com/minsuko-lab/Linux_Ansible)  
+🔗 [CI/CD](https://github.com/minsuko-lab/CI_CD_MiniProject)
 
 ---
 
 ## 🏅 Certifications
 
-### Certified Kubernetes Administrator
+### ☸️ Certified Kubernetes Administrator (CKA)
 
 ![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-Kubernetes cluster administration, troubleshooting, networking, storage and workload management.
+Kubernetes 클러스터 운영, 네트워킹, 스토리지, 워크로드 관리 및 트러블슈팅 역량을 검증하는 자격입니다.
 
-### Red Hat Certified System Administrator
+### 🎩 Red Hat Certified System Administrator (RHCSA)
 
 ![RHCSA](https://img.shields.io/badge/Red_Hat_Certified_System_Administrator-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-Linux system administration based on Red Hat Enterprise Linux.
+Red Hat Enterprise Linux 기반 시스템 관리 및 Linux Administration 역량을 검증하는 자격입니다.
 
 ---
 
-## 🔭 Currently Exploring
+## 🔭 Current Focus
 
 ```text
 Cloud Infrastructure
@@ -165,37 +163,4 @@ Kubernetes / Platform Engineering
         ↓
 AI Infrastructure & LLMOps
         ↓
-Multi-Agent Systems
-````
-
-I'm particularly interested in connecting
-**Cloud Infrastructure + Automation + AI Agent Systems**.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=FakePhDKo&show_icons=true&hide_border=true"
-height="160"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakePhDKo&layout=compact&hide_border=true"
-height="160"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-### Infrastructure is not just about running systems.
-
-### It's about designing systems that can keep running.
-
-</div>
-```
+Agentic Systems
