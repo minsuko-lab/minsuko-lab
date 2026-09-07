@@ -240,18 +240,6 @@ Ansible을 활용한 Linux 시스템 구성과
 
 </div>
 
-📊 GitHub Activity
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=minsuko-lab&show_icons=true&hide_border=true&theme=transparent"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsuko-lab&layout=compact&hide_border=true&theme=transparent"
-  height="165"
-/>
-</div>
 
 <div align="center">
 
