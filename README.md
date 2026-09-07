@@ -125,9 +125,11 @@ Linux System Administration 역량을 검증하는 자격입니다.
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="480" valign="top" align="left">
 
 ### ☁️ Cloud Management Platform
 
@@ -147,7 +149,7 @@ VM Provisioning과 Infrastructure Automation을 중심으로
 
 </td>
 
-<td width="50%" valign="top">
+<td width="480" valign="top" align="left">
 
 ### 🤖 MCP News Curation Agent
 
@@ -169,7 +171,7 @@ VM Provisioning과 Infrastructure Automation을 중심으로
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="480" valign="top" align="left">
 
 ### ☸️ Kubernetes
 
@@ -189,7 +191,7 @@ Kubernetes 클러스터 운영 원리를 이해하기 위해
 
 </td>
 
-<td width="50%" valign="top">
+<td width="480" valign="top" align="left">
 
 ### ⚙️ Infrastructure Automation
 
@@ -210,6 +212,8 @@ Ansible을 활용한 Linux 시스템 구성과
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
