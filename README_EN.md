@@ -1,9 +1,3 @@
-
----
-
-# `README_EN.md` — English v3
-
-```markdown
 <p align="right">
   <a href="./README.md">한국어</a> |
   <b>English</b>
@@ -16,10 +10,10 @@
 
 <div align="center">
 
-### Hi, I'm Minsu Ko 👋
+### Hi, I'm Minsu Ko, a Cloud & Infrastructure Engineer 👋
 
-My background is focused on **cloud infrastructure and automation**,  
-and I am expanding my interests toward **Kubernetes and AI Agent systems**.
+With a foundation in cloud infrastructure and automation,  
+I am expanding my interests into **Kubernetes and AI Agent systems**.
 
 Rather than treating technologies as isolated tools,  
 I focus on understanding **how systems are connected, automated, and operated as a whole**.
@@ -42,8 +36,8 @@ I focus on understanding **how systems are connected, automated, and operated as
 
 > **Infrastructure → Automation → Platform → AI**
 >
-> My background is rooted in infrastructure and automation,  
-> with growing interests in platform engineering and AI-powered systems.
+> I have been building my foundation in infrastructure, automation, and platform engineering,  
+> while exploring how AI Agents and LLM-based systems can be connected with infrastructure environments.
 
 - ☁️ **Cloud Infrastructure & Platform Engineering**
 - ☸️ **Linux · Docker · Kubernetes**
@@ -107,8 +101,8 @@ I focus on understanding **how systems are connected, automated, and operated as
 
 [![CKA](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/users/username.b694ae36/badges/credly)
 
-Validated skills in Kubernetes cluster administration, networking,  
-storage, workload management, and troubleshooting.
+A certification that validates skills in Kubernetes cluster administration, networking, storage,  
+workload management, and troubleshooting.
 
 <br/>
 
@@ -116,7 +110,7 @@ storage, workload management, and troubleshooting.
 
 [![RHCSA](https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/users/username.b694ae36/badges/credly)
 
-Validated Linux system administration skills  
+A certification that validates Linux system administration skills  
 based on Red Hat Enterprise Linux.
 
 <br/>
@@ -131,72 +125,91 @@ based on Red Hat Enterprise Linux.
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ☁️ Cloud Management Platform
 
 Built a **Cloud Management Platform prototype** focused on  
 VM provisioning and infrastructure automation.
 
-`VMware vSphere` · `Terraform` · `Ansible` · `Jenkins` · `Prometheus` · `Grafana`
+**Tech**
 
-Key areas:
+`VMware vSphere` `Terraform` `Ansible`  
+`Jenkins` `Prometheus` `Grafana`
 
-`VM Provisioning` · `IaC` · `Configuration Management` · `CI/CD` · `Monitoring`
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/minsuko-lab/CMP-Project-Terraform">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=CMP-Project-Terraform&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🤖 MCP-based News Curation Agent
+### 🤖 MCP News Curation Agent
 
-An **MCP-based AI Agent system** that automatically collects  
-and organizes news based on user-defined interests.
+An **MCP-based AI Agent system** that collects and organizes news  
+based on user-defined interests and keywords.
 
-`Python` · `FastAPI` · `MCP` · `LLM` · `Automation`
+**Tech**
 
-<div align="center">
+`Python` `FastAPI` `MCP`  
+`LLM` `Automation`
+
+<br/>
 
 <a href="https://github.com/minsuko-lab/news_curation_system">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=news_curation_system&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### ☸️ Kubernetes & Infrastructure Automation
+### ☸️ Kubernetes
 
-Continuously practicing Kubernetes cluster administration  
-and Linux infrastructure automation with Ansible.
+Practicing Kubernetes with a focus on  
+workload management, cluster administration, and troubleshooting.
 
-<div align="center">
+**Focus**
+
+`Administration` `Networking`  
+`Storage` `Troubleshooting`
+
+<br/>
 
 <a href="https://github.com/minsuko-lab/My_Kubernetes">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=My_Kubernetes&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Infrastructure Automation
+
+Exploring Linux system configuration and infrastructure automation  
+using Ansible to reduce repetitive operational tasks.
+
+**Tech**
+
+`Linux` `Ansible`  
+`Automation` `Configuration Management`
+
+<br/>
 
 <a href="https://github.com/minsuko-lab/Linux_Ansible">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=Linux_Ansible&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -204,43 +217,34 @@ and Linux infrastructure automation with Ansible.
 
 <div align="center">
 
-```text
-Cloud Infrastructure
-        ↓
-Infrastructure Automation
-        ↓
-Kubernetes / Platform Engineering
-        ↓
-AI Infrastructure & LLMOps
-        ↓
-Agentic Systems
+### Cloud Infrastructure
+↓
 
-I am interested in connecting
-Infrastructure + Automation + AI
-within a single system architecture.
+### Infrastructure Automation
+↓
+
+### Kubernetes / Platform Engineering
+↓
+
+### AI Infrastructure & LLMOps
+↓
+
+### Agentic Systems
+
+<br/>
+
+**Infrastructure + Automation + AI**
+
+Rather than viewing each area as an isolated technology,  
+I am interested in connecting them within **a unified system architecture**.
+
 </div>
 
-
-📊 GitHub Activity
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=minsuko-lab&show_icons=true&hide_border=true&theme=transparent"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsuko-lab&layout=compact&hide_border=true&theme=transparent"
-  height="165"
-/>
-</div>
-
-
+---
 
 <div align="center">
 
-Build systems. Automate processes. Understand the architecture.
-
-
+### Build systems. Automate processes. Understand the architecture.
 
 </div>
 
