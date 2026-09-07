@@ -208,10 +208,11 @@ Kubernetes / Platform Engineering
 AI Infrastructure & LLMOps
         ↓
 Agentic Systems
-```
+
 Infrastructure + Automation + AI
 각 영역을 독립적인 기술로 보는 것보다
 하나의 시스템 아키텍처 안에서 연결하는 방법에 관심을 가지고 있습니다.
+```
 </div>
 
 📊 GitHub Activity
@@ -230,8 +231,6 @@ Infrastructure + Automation + AI
 <div align="center">
 
 Build systems. Automate processes. Understand the architecture.
-
-
 
 </div>
 
