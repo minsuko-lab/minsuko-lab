@@ -125,7 +125,7 @@ Linux System Administration 역량을 검증하는 자격입니다.
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
