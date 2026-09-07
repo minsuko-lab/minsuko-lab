@@ -125,72 +125,91 @@ Linux System Administration 역량을 검증하는 자격입니다.
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ☁️ Cloud Management Platform
 
 VM Provisioning과 Infrastructure Automation을 중심으로  
 **Cloud Management Platform 프로토타입**을 구축했습니다.
 
-`VMware vSphere` · `Terraform` · `Ansible` · `Jenkins` · `Prometheus` · `Grafana`
+**Tech**
 
-주요 관심 영역은 다음과 같습니다.
+`VMware vSphere` `Terraform` `Ansible`  
+`Jenkins` `Prometheus` `Grafana`
 
-`VM Provisioning` · `IaC` · `Configuration Management` · `CI/CD` · `Monitoring`
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/minsuko-lab/CMP-Project-Terraform">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=CMP-Project-Terraform&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🤖 MCP-based News Curation Agent
+### 🤖 MCP News Curation Agent
 
 사용자의 관심 키워드를 기반으로 뉴스를 수집하고 정리하는  
 **MCP 기반 AI Agent 시스템**입니다.
 
-`Python` · `FastAPI` · `MCP` · `LLM` · `Automation`
+**Tech**
 
-<div align="center">
+`Python` `FastAPI` `MCP`  
+`LLM` `Automation`
+
+<br/>
 
 <a href="https://github.com/minsuko-lab/news_curation_system">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=news_curation_system&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### ☸️ Kubernetes & Infrastructure Automation
+### ☸️ Kubernetes
 
-Kubernetes 클러스터 관리 및 트러블슈팅과 함께  
-Ansible을 활용한 Linux 인프라 자동화를 지속적으로 학습하고 있습니다.
+Kubernetes 클러스터 운영 원리를 이해하기 위해  
+워크로드 관리와 트러블슈팅을 중심으로 실습하고 있습니다.
 
-<div align="center">
+**Focus**
+
+`Administration` `Networking`  
+`Storage` `Troubleshooting`
+
+<br/>
 
 <a href="https://github.com/minsuko-lab/My_Kubernetes">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=My_Kubernetes&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Infrastructure Automation
+
+Ansible을 활용한 Linux 시스템 구성과  
+반복적인 인프라 운영 작업의 자동화를 학습하고 있습니다.
+
+**Tech**
+
+`Linux` `Ansible`  
+`Automation` `Configuration Management`
+
+<br/>
 
 <a href="https://github.com/minsuko-lab/Linux_Ansible">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minsuko-lab&repo=Linux_Ansible&theme=transparent&hide_border=true"
-    width="47%"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -198,21 +217,27 @@ Ansible을 활용한 Linux 인프라 자동화를 지속적으로 학습하고 �
 
 <div align="center">
 
-```text
-Cloud Infrastructure
-        ↓
-Infrastructure Automation
-        ↓
-Kubernetes / Platform Engineering
-        ↓
-AI Infrastructure & LLMOps
-        ↓
-Agentic Systems
+### Cloud Infrastructure
+↓
 
-Infrastructure + Automation + AI
-각 영역을 독립적인 기술로 보는 것보다
+### Infrastructure Automation
+↓
+
+### Kubernetes / Platform Engineering
+↓
+
+### AI Infrastructure & LLMOps
+↓
+
+### Agentic Systems
+
+<br/>
+
+**Infrastructure + Automation + AI**
+
+각 영역을 독립적인 기술로 보기보다  
 하나의 시스템 아키텍처 안에서 연결하는 방법에 관심을 가지고 있습니다.
-```
+
 </div>
 
 📊 GitHub Activity
