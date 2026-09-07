@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 안녕하세요, 고민수입니다 👋
+# 안녕하세요, 클라우드, 인프라 엔지니어 고민수입니다 👋
 
 ### Cloud · Infrastructure · Automation · AI
 
